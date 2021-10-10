@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Certificates 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-4"
+>
+  <div
+    className="MuiBox-root MuiBox-root-5"
+  >
+    <br />
+    <center>
+      <h5
+        className="MuiTypography-root MuiTypography-h5"
+        style={
+          Object {
+            "color": "textSecondary",
+          }
+        }
+      >
+        Certificates
+      </h5>
+    </center>
+    <br />
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"
+    />
+    <div />
+  </div>
+</div>
+`;

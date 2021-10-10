@@ -1,0 +1,392 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PastEvents 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-6"
+>
+  <div
+    align="center"
+    className="MuiBox-root MuiBox-root-7"
+  >
+    <center>
+      <h4
+        className="MuiTypography-root MuiTypography-h4 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+      >
+        Past Events
+      </h4>
+      <p
+        style={
+          Object {
+            "borderRadius": "5px",
+            "color": "#2874a6",
+            "height": "30px",
+            "padding": "5px",
+            "width": "1200px",
+          }
+        }
+      >
+        By Elizabeth Andrew  -  
+        <strong>
+          <i>
+             Volunteers do not necessarily have the time; they have the heart. 
+          </i>
+        </strong>
+      </p>
+    </center>
+  </div>
+  <div
+    className="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-3"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-outlined MuiPaper-rounded"
+        style={
+          Object {
+            "borderRadius": "10px",
+            "height": "460px",
+            "width": "615px",
+          }
+        }
+      >
+        <div
+          className="carousel slide"
+          onKeyDown={[Function]}
+          onMouseOut={[Function]}
+          onMouseOver={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          position="absolute"
+          style={
+            Object {
+              "marginLeft": "5px",
+              "marginRight": "5px",
+            }
+          }
+          variant="dark"
+        >
+          <ol
+            className="carousel-indicators"
+          />
+          <div
+            className="carousel-inner"
+          />
+          <a
+            className="carousel-control-prev"
+            href="#"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+          >
+            <span
+              aria-hidden="true"
+              className="carousel-control-prev-icon"
+            />
+            <span
+              className="sr-only"
+            >
+              Previous
+            </span>
+          </a>
+          <a
+            className="carousel-control-next"
+            href="#"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+          >
+            <span
+              aria-hidden="true"
+              className="carousel-control-next-icon"
+            />
+            <span
+              className="sr-only"
+            >
+              Next
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-outlined MuiPaper-rounded"
+        style={
+          Object {
+            "borderRadius": "10px",
+            "height": "460px",
+            "width": "580px",
+          }
+        }
+      >
+        <h5
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-alignCenter"
+          style={
+            Object {
+              "color": "textSecondary",
+              "fontFamily": "Gabriola",
+              "marginTop": "20px",
+            }
+          }
+        >
+          <b>
+            Our Volunteers' Thoughts on Helping Hands
+          </b>
+        </h5>
+        <div
+          className="makeStyles-root-1"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+            >
+              <div
+                className="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+                style={
+                  Object {
+                    "backgroundColor": "#4DD0E1",
+                    "spacing": 2,
+                  }
+                }
+              >
+                <div
+                  className="MuiCardContent-root"
+                >
+                  <p
+                    className="MuiTypography-root MuiTypography-body1"
+                  >
+                    <i>
+                      "Really enjoy volunteering for Helping Hands. when a little of your time and the simplest of acts can make someone's day better, it is so rewarding"
+                    </i>
+                    <br />
+                    - Geethanjali Madhu
+                  </p>
+                  <center>
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"
+                      />
+                    </svg>
+                  </center>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+            >
+              <div
+                className="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+                style={
+                  Object {
+                    "backgroundColor": "#4DD0E1",
+                    "spacing": 2,
+                  }
+                }
+              >
+                <div
+                  className="MuiCardContent-root"
+                >
+                  <p
+                    className="MuiTypography-root MuiTypography-body1"
+                  >
+                    <i>
+                       "I got to experience so many elements of volunteering since joining Helping Hands, it was a genuinely enriching experience. Even besides that, I was unaware just how much fun I would have!"
+                    </i>
+                    <br />
+                    - Kausalya R
+                  </p>
+                  <center>
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"
+                      />
+                    </svg>
+                  </center>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+            >
+              <div
+                className="MuiPaper-root MuiCard-root makeStyles-card-3 MuiPaper-elevation1 MuiPaper-rounded"
+                style={
+                  Object {
+                    "backgroundColor": "#4DD0E1",
+                    "spacing": 2,
+                  }
+                }
+              >
+                <div
+                  className="MuiCardContent-root"
+                >
+                  <p
+                    className="MuiTypography-root MuiTypography-body1"
+                  >
+                    <i>
+                      "If you are looking for an authentic volunteering experience among people who work passinately for the causes they believe in, then this is the place to be"
+                    </i>
+                    <br />
+                    - Shreya Patil
+                  </p>
+                  <center>
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"
+                      />
+                    </svg>
+                  </center>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-11"
+  >
+    <div
+      className="makeStyles-bot-10"
+    >
+      <div
+        className="MuiBottomNavigation-root makeStyles-bnav-9"
+      >
+        <button
+          className="MuiButtonBase-root MuiBottomNavigationAction-root MuiBottomNavigationAction-iconOnly"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiBottomNavigationAction-wrapper"
+          >
+            <img
+              src="logo-FB.ico"
+              style={
+                Object {
+                  "height": 25,
+                  "width": 25,
+                }
+              }
+            />
+            <span
+              className="MuiBottomNavigationAction-label MuiBottomNavigationAction-iconOnly"
+            >
+              Facebook
+            </span>
+          </span>
+        </button>
+        <button
+          className="MuiButtonBase-root MuiBottomNavigationAction-root MuiBottomNavigationAction-iconOnly"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiBottomNavigationAction-wrapper"
+          >
+            <img
+              src="logo-IG.ico"
+              style={
+                Object {
+                  "height": 25,
+                  "width": 25,
+                }
+              }
+            />
+            <span
+              className="MuiBottomNavigationAction-label MuiBottomNavigationAction-iconOnly"
+            >
+              Instagram
+            </span>
+          </span>
+        </button>
+        <button
+          className="MuiButtonBase-root MuiBottomNavigationAction-root MuiBottomNavigationAction-iconOnly"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiBottomNavigationAction-wrapper"
+          >
+            <img
+              src="logo-YT.ico"
+              style={
+                Object {
+                  "height": 25,
+                  "width": 25,
+                }
+              }
+            />
+            <span
+              className="MuiBottomNavigationAction-label MuiBottomNavigationAction-iconOnly"
+            >
+              Youtube
+            </span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Weekend 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-3"
+>
+  <div
+    align="center"
+    className="MuiBox-root MuiBox-root-4"
+  >
+    <center>
+      <h5
+        className="MuiTypography-root MuiTypography-h5"
+        style={
+          Object {
+            "color": "textSecondary",
+          }
+        }
+      >
+        Weekend Events
+      </h5>
+      <p
+        style={
+          Object {
+            "borderRadius": "5px",
+            "color": "#2874a6",
+            "height": "30px",
+            "padding": "5px",
+            "width": "1200px",
+          }
+        }
+      >
+        By Helen Keller -  
+        <strong>
+          <i>
+             Alone we can do so little; together we can do so much. 
+          </i>
+        </strong>
+      </p>
+    </center>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-5"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6"
+    />
+    <div />
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-10"
+  >
+    <div
+      className="makeStyles-bot-9"
+    >
+      <div
+        className="MuiBottomNavigation-root makeStyles-bnav-8"
+      >
+        <button
+          className="MuiButtonBase-root MuiBottomNavigationAction-root MuiBottomNavigationAction-iconOnly"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiBottomNavigationAction-wrapper"
+          >
+            <img
+              src="logo-FB.ico"
+              style={
+                Object {
+                  "height": 25,
+                  "width": 25,
+                }
+              }
+            />
+            <span
+              className="MuiBottomNavigationAction-label MuiBottomNavigationAction-iconOnly"
+            >
+              Facebook
+            </span>
+          </span>
+        </button>
+        <button
+          className="MuiButtonBase-root MuiBottomNavigationAction-root MuiBottomNavigationAction-iconOnly"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiBottomNavigationAction-wrapper"
+          >
+            <img
+              src="logo-IG.ico"
+              style={
+                Object {
+                  "height": 25,
+                  "width": 25,
+                }
+              }
+            />
+            <span
+              className="MuiBottomNavigationAction-label MuiBottomNavigationAction-iconOnly"
+            >
+              Instagram
+            </span>
+          </span>
+        </button>
+        <button
+          className="MuiButtonBase-root MuiBottomNavigationAction-root MuiBottomNavigationAction-iconOnly"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiBottomNavigationAction-wrapper"
+          >
+            <img
+              src="logo-YT.ico"
+              style={
+                Object {
+                  "height": 25,
+                  "width": 25,
+                }
+              }
+            />
+            <span
+              className="MuiBottomNavigationAction-label MuiBottomNavigationAction-iconOnly"
+            >
+              Youtube
+            </span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
